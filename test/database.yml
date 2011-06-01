@@ -1,0 +1,7 @@
+mysql:
+  adapter: mysql2
+  host: localhost
+  username: root
+  password: obsgroup
+  database: videolla_notification_test2
+  socket: /opt/local/var/run/mysql5/mysqld.sock
